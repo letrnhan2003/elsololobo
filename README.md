@@ -20,7 +20,7 @@ After this process, the system will repeat the above steps every 60 seconds.
 * C Programming language 
 
 ## Project Structure
-The project consists of main.c, scheduler.c, software_timer.c, and main.h, scheduler.h, software_timer.h as well.
+The project consists of main.c, scheduler.c, software_timer.c, sfm_smart_irrigation.c and main.h, scheduler.h, software_timer.h, sfm_smart_irrigation.h as well.
 
 ## Contribution
 If you find any issues or have suggestions for improvement, feel free to create a new issue or submit a pull request.
